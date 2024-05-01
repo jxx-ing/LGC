@@ -31,4 +31,3 @@ Results in ll.log
 | **layer=3** | 0.06347          | 0.05238 | 0.0285 |
 | **layer=4** | 0.06515                | 0.05325 | 0.02917 |
 
- sudo cp -R world.py /nas/JXX/
